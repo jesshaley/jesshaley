@@ -29,6 +29,16 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.PAT }}     # <-- your PAT, NOT GITHUB_TOKEN
 
+      - name: Reject error cards
+        run: |
+          for f in profile/stats.svg profile/top-langs.svg; do
+            if grep -q "Something went wrong" "$f"; then
+              echo "::error::$f came back as an error card; refusing to commit."
+              git checkout -- "$f"
+              exit 1
+            fi
+          done
+
       - name: Commit card
         run: |
           git config user.name "github-actions[bot]"
