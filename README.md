@@ -23,7 +23,7 @@ decision-making, published in *eLife*.
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<br clear="right" />
+---
 
 ## Current Projects
 
@@ -43,6 +43,8 @@ A Python (NumPy/SciPy) A/B testing library built around Bloom's freemium funnel:
 randomized assignment, sample-ratio-mismatch checks, power and minimum-detectable-effect,
 CUPED variance reduction, always-valid sequential testing, multiple-comparison control,
 and a ship/no-ship decision layer. Validated in simulation against known ground truth.
+
+---
 
 ## Public Projects
 
