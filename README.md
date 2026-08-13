@@ -1,5 +1,9 @@
 ## Jess Haley, PhD
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jess-a-haley/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=z7coTFkAAAAJ)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6282-7124)
+
 <table><tr>
 <td width="37%">
 
@@ -14,9 +18,7 @@ statistics to test them, and write the pipelines and infrastructure around both.
 </td>
 </tr></table>
 
-[LinkedIn](https://www.linkedin.com/in/jess-a-haley/) ·
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=z7coTFkAAAAJ) ·
-[ORCID](https://orcid.org/0000-0001-6282-7124)
+
 
 **Currently** — Software Engineer and Data Consultant at Waltham Data Science,
 building analysis pipelines, models, and data infrastructure for client research teams.
@@ -25,7 +27,7 @@ building analysis pipelines, models, and data infrastructure for client research
 combined controlled experiments with quantitative modeling to identify what drives
 decision-making, published in *eLife*.
 
-### Projects
+### Private Projects
 
 - **Bloom** — a specialty coffee and tea app for iOS (Swift, SwiftData) with a
   TypeScript edge backend, currently pre-launch. Beyond the app, it is a testbed for
@@ -40,9 +42,7 @@ decision-making, published in *eLife*.
   multiple-comparison control, and a ship/no-ship decision layer. Validated in simulation
   against known ground truth.
 
-Both are private repositories for now.
-
-### Public repositories
+### Public Projects
 
 - **[haley_et_al_2024](https://github.com/jesshaley/haley_et_al_2024)** — analysis package for
   [Haley et al., *eLife* 2024](https://doi.org/10.7554/eLife.103191): experimental design,
